@@ -1,82 +1,154 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+<!--
+  ZIMO | FiveM Developer
+  GitHub Profile README
+-->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<div align="center">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+# 🔴 ZIMO
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+### FiveM Developer | Script Creator | Content Creator
 
-## &#x270d; Blog & Writing
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Welcome+to+ZIMO's+Profile;FiveM+Script+Developer;QBCore+%7C+ESX+%7C+Standalone;Building+Something+Amazing!" />
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+<br>
 
-A sample of my recent articles:
+<img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge&logo=rockstargames&logoColor=white" />
+<img src="https://img.shields.io/badge/Script-Creator-black?style=for-the-badge&logo=lua&logoColor=red" />
+<img src="https://img.shields.io/badge/Content-Creator-red?style=for-the-badge&logo=youtube&logoColor=white" />
 
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
+<br><br>
 
-## &#x1f4c8; GitHub Stats
+[![GitHub](https://img.shields.io/badge/GitHub-ZIMO-black?style=for-the-badge&logo=github)](https://github.com/zimo1212)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCcc-m2bF01F9GwanvSEF_jg)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WrxHDBZRw)
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+</div>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+---
 
+## 👨‍💻 About Me
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+Hello! I'm **ZIMO**, a passionate FiveM Developer and Content Creator.
 
-<!-- links to social media icons -->
+I specialize in developing and creating custom resources for FiveM servers. I enjoy building new systems, improving gameplay experiences, and sharing my scripts with the community.
 
-<!-- icons with padding -->
+- 🔴 FiveM Script Developer.
+- 💻 Developing custom FiveM resources.
+- ⚙️ Working with QBCore, ESX & Standalone.
+- 🎮 Passionate about GTA V Roleplay.
+- 🎥 Creating content on YouTube and Instagram.
+- 🚀 Sharing scripts and resources through Discord.
+- 🛠️ Always learning and developing new ideas.
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+---
 
-<!-- icons without padding -->
+## 🛠️ My Skills & Technologies
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<div align="center">
 
+### Programming Languages
 
-<!-- links to your social media accounts -->
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,python" />
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+### Tools & Development
 
+<img src="https://skillicons.dev/icons?i=vscode,github,git,mysql" />
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+</div>
+
+---
+
+## 🎮 FiveM Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/QBCore-Supported-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESX-Supported-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Standalone-Supported-red?style=for-the-badge" />
+
+</div>
+
+I develop and work with:
+
+- Custom FiveM Scripts.
+- Advanced UI Systems.
+- Job & Gang Systems.
+- Police & EMS Systems.
+- Administration Systems.
+- Inventory & Shops.
+- Discord Integrations.
+- Server Optimization.
+
+---
+
+## 📦 My Projects
+
+I share my FiveM resources and projects with the community.
+
+| Project | Description |
+|---|---|
+| FiveM Scripts | Custom FiveM resources |
+| QBCore Resources | QBCore development |
+| ESX Resources | ESX development |
+| Standalone Scripts | Framework-independent scripts |
+| Discord Projects | Discord bots and integrations |
+
+**Explore my repositories:**
+
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-red?style=for-the-badge&logo=github)](https://github.com/zimo1212?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zimo1212&show_icons=true&theme=dark&title_color=ff3030&icon_color=ff3030&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimo1212&layout=compact&theme=dark&title_color=ff3030&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=zimo1212&theme=dark&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zimo1212&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### Follow My Work & Join My Community
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/zimo1212)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCcc-m2bF01F9GwanvSEF_jg)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/WrxHDBZRw)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔴 BUILD • DEVELOP • CREATE ⚫
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3030&height=100&section=footer" />
+
+</div>
